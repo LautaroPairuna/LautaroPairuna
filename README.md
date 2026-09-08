@@ -52,8 +52,95 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
 
 ---
 
-⚙️  GitHub Analytics
-<p align="center"> <a href="https://github.com/LautaroPairuna"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LautaroPairuna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroPairuna&layout=compact&langs_count=8&theme=algolia"/> </a> </p>
+### 🌐 Proyectos
+
+<sub>Salvo que se indique lo contrario, construidos con Next.js (Route Handlers) + Prisma sobre MySQL.</sub>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.sanisidrocollege.com.ar" target="_blank">
+        <img src="https://api.microlink.io/?url=https://www.sanisidrocollege.com.ar&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
+      </a>
+      <br/>
+      <b>Colegio San Isidro</b><br/>
+      Sitio institucional del colegio.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.villavicuna.com.ar" target="_blank">
+        <img src="https://api.microlink.io/?url=https://www.villavicuna.com.ar&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
+      </a>
+      <br/>
+      <b>Villa Vicuña (Salta)</b><br/>
+      Presencia web del hotel.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.villavicunacafayate.com.ar/es/" target="_blank">
+        <img src="https://api.microlink.io/?url=https://www.villavicunacafayate.com.ar/es/&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
+      </a>
+      <br/>
+      <b>Villa Vicuña (Cafayate)</b><br/>
+      Presencia web del hotel.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://islasgroup.com.ar/" target="_blank">
+        <img src="https://api.microlink.io/?url=https://islasgroup.com.ar/&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
+      </a>
+      <br/>
+      <b>Islas Group</b><br/>
+      Relojería y joyería de lujo (Buenos Aires).
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://bikemarketarg.com/" target="_blank">
+        <img src="https://api.microlink.io/?url=https://bikemarketarg.com/&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
+      </a>
+      <br/>
+      <b>Bikemarket</b><br/>
+      Marketplace de bicicletas — TanStack Start + React + Prisma (no Next.js).
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.aeroparkingezeiza.com.ar/" target="_blank">
+        <img src="https://api.microlink.io/?url=https://www.aeroparkingezeiza.com.ar/&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
+      </a>
+      <br/>
+      <b>AeroParking Ezeiza</b><br/>
+      Reservas de cocheras para el aeropuerto de Ezeiza.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://casacerro.com.ar/" target="_blank">
+        <img src="https://api.microlink.io/?url=https://casacerro.com.ar/&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
+      </a>
+      <br/>
+      <b>Casa Cerro</b><br/>
+      Landing page con panel administrativo para modificar tarifas.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://clockking.com.ar" target="_blank">
+        <img src="https://api.microlink.io/?url=https://clockking.com.ar&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
+      </a>
+      <br/>
+      <b>ClockKing</b><br/>
+      Mini catálogo de productos.
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/LautaroPairuna">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LautaroPairuna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroPairuna&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ---
 
