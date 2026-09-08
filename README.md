@@ -52,12 +52,8 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
 
 ---
 
-### 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LautaroPairuna&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroPairuna&layout=compact&hide_border=true" width="35%" />
-</p>
+⚙️  GitHub Analytics
+<p align="center"> <a href="https://github.com/LautaroPairuna"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LautaroPairuna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroPairuna&layout=compact&langs_count=8&theme=algolia"/> </a> </p>
 
 ---
 
