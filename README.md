@@ -60,7 +60,7 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
   <tr>
     <td width="50%" valign="top">
       <a href="https://www.sanisidrocollege.com.ar" target="_blank">
-        <img src="https://api.microlink.io/?url=https://www.sanisidrocollege.com.ar&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
+        <img src="https://www.sanisidrocollege.com.ar/images/og-san-isidro.png" width="100%"/>
       </a>
       <br/>
       <b>Colegio San Isidro</b><br/>
@@ -68,7 +68,7 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
     </td>
     <td width="50%" valign="top">
       <a href="https://www.villavicuna.com.ar" target="_blank">
-        <img src="https://api.microlink.io/?url=https://www.villavicuna.com.ar&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
+        <img src="https://villavicuna.com.ar/opengraph.jpg" width="100%"/>
       </a>
       <br/>
       <b>Villa Vicuña (Salta)</b><br/>
@@ -78,7 +78,7 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
   <tr>
     <td width="50%" valign="top">
       <a href="https://www.villavicunacafayate.com.ar/es/" target="_blank">
-        <img src="https://api.microlink.io/?url=https://www.villavicunacafayate.com.ar/es/&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
+        <img src="https://www.villavicunacafayate.com.ar/opengraph.jpg" width="100%"/>
       </a>
       <br/>
       <b>Villa Vicuña (Cafayate)</b><br/>
@@ -86,7 +86,7 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
     </td>
     <td width="50%" valign="top">
       <a href="https://islasgroup.com.ar/" target="_blank">
-        <img src="https://api.microlink.io/?url=https://islasgroup.com.ar/&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
+        <img src="https://islasgroup.com.ar/images/og-islas-group.jpg" width="100%"/>
       </a>
       <br/>
       <b>Islas Group</b><br/>
@@ -96,15 +96,15 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
   <tr>
     <td width="50%" valign="top">
       <a href="https://bikemarketarg.com/" target="_blank">
-        <img src="https://api.microlink.io/?url=https://bikemarketarg.com/&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
+        <img src="https://bikemarketarg.com/_next/image?url=%2Fruta.jpg&w=1200&q=75" width="100%"/>
       </a>
       <br/>
       <b>Bikemarket</b><br/>
-      Marketplace de bicicletas — TanStack Start + React + Prisma (no Next.js).
+      Marketplace de bicicletas.
     </td>
     <td width="50%" valign="top">
       <a href="https://www.aeroparkingezeiza.com.ar/" target="_blank">
-        <img src="https://api.microlink.io/?url=https://www.aeroparkingezeiza.com.ar/&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
+        <img src="https://www.aeroparkingezeiza.com.ar/assets/servicios/cocheras-techadas.webp" width="100%"/>
       </a>
       <br/>
       <b>AeroParking Ezeiza</b><br/>
@@ -114,7 +114,7 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
   <tr>
     <td width="50%" valign="top">
       <a href="https://casacerro.com.ar/" target="_blank">
-        <img src="https://api.microlink.io/?url=https://casacerro.com.ar/&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
+        <img src="https://casacerro.com.ar/image/hero/foto-hero-2.jpeg" width="100%"/>
       </a>
       <br/>
       <b>Casa Cerro</b><br/>
@@ -122,7 +122,7 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
     </td>
     <td width="50%" valign="top">
       <a href="https://clockking.com.ar" target="_blank">
-        <img src="https://api.microlink.io/?url=https://clockking.com.ar&screenshot=true&meta=false&embed=screenshot.url" width="100%"/>
+        <img src="https://clockking.com.ar/assets/logo.png" width="100%"/>
       </a>
       <br/>
       <b>ClockKing</b><br/>
@@ -136,7 +136,7 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/LautaroPairuna">
+<a href="https://github.com/LautaroPairuna" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LautaroPairuna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroPairuna&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -147,6 +147,6 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
 ### 📫 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:TU_EMAIL@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:TU_EMAIL@ejemplo.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
