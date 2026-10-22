@@ -15,7 +15,6 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
 
 ### 🚀 En qué estoy ahora
 
-- 🛠️ Construyendo **Convy**, un CRM + catálogo por WhatsApp para pymes de LATAM
 - 💼 Freelance full-stack — ~8 clientes activos, entre proyectos propios y la marca **Nodo**
 - 🎓 Último año de la Tecnicatura en Desarrollo Web (Instituto Santo Domingo)
 - 📚 Sumando Linux/CLI e inglés técnico rumbo a roles remotos internacionales
