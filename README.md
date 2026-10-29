@@ -66,7 +66,7 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
     </td>
     <td width="50%" valign="top">
       <a href="https://www.villavicuna.com.ar" target="_blank">
-        <img src="https://villavicuna.com.ar/opengraph.jpg" width="100%"/>
+        <img src="https://villavicuna.com.ar/images/og-villa-vicuna.png" width="100%"/>
       </a>
       <br/>
       <b>Villa Vicuña (Salta)</b><br/>
@@ -84,7 +84,7 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
     </td>
     <td width="50%" valign="top">
       <a href="https://islasgroup.com.ar/" target="_blank">
-        <img src="https://islasgroup.com.ar/images/og-islas-group.jpg" width="100%"/>
+        <img src="https://islasgroup.com.ar/images/og-islas-group.png" width="100%"/>
       </a>
       <br/>
       <b>Islas Group</b><br/>
@@ -94,7 +94,7 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
   <tr>
     <td width="50%" valign="top">
       <a href="https://bikemarketarg.com/" target="_blank">
-        <img src="https://bikemarketarg.com/_next/image?url=%2Fruta.jpg&w=1200&q=75" width="100%"/>
+        <img src="https://bikemarketarg.com/opengraph-image.png" width="100%"/>
       </a>
       <br/>
       <b>Bikemarket</b><br/>
@@ -102,7 +102,7 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
     </td>
     <td width="50%" valign="top">
       <a href="https://www.aeroparkingezeiza.com.ar/" target="_blank">
-        <img src="https://www.aeroparkingezeiza.com.ar/assets/servicios/cocheras-techadas.webp" width="100%"/>
+        <img src="https://www.aeroparkingezeiza.com.ar/opengraph-image.png" width="100%"/>
       </a>
       <br/>
       <b>AeroParking Ezeiza</b><br/>
@@ -112,7 +112,7 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
   <tr>
     <td width="50%" valign="top">
       <a href="https://casacerro.com.ar/" target="_blank">
-        <img src="https://casacerro.com.ar/image/hero/foto-hero-2.jpeg" width="100%"/>
+        <img src="https://casacerro.com.ar/og-casacerro.png" width="100%"/>
       </a>
       <br/>
       <b>Casa Cerro</b><br/>
@@ -120,7 +120,7 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
     </td>
     <td width="50%" valign="top">
       <a href="https://clockking.com.ar" target="_blank">
-        <img src="https://clockking.com.ar/assets/logo.png" width="100%"/>
+        <img src="https://clockking.com.ar/opengraph-image.png" width="100%"/>
       </a>
       <br/>
       <b>ClockKing</b><br/>
