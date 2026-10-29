@@ -1,14 +1,14 @@
 <h1 align="center">¡Hola! Soy Lautaro Pairuna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=520&lines=Desarrollador+Full-Stack;Next.js+%2B+NestJS+%2B+TypeScript;Construyendo+Convy+%F0%9F%9A%80;Salta%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=520&lines=Desarrollador+Full-Stack;Next.js+%2B+NestJS+%2B+TypeScript;Sitios+y+sistemas+web+a+medida+%F0%9F%9A%80;Salta%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG" />
 </h3>
 
 <p align="center">
 Desarrollador full-stack con 3 años de experiencia, con base en Salta, Argentina 🇦🇷.<br>
 Trabajo con Next.js, React y NestJS sobre TypeScript, llevando proyectos freelance de punta a punta —<br>
-desde sitios institucionales hasta ecommerce con pagos integrados. Actualmente construyendo <b>Convy</b>,<br>
-un SaaS de CRM por WhatsApp para comercios sin digitalizar.
+desde sitios institucionales hasta ecommerce con pagos integrados. También me ocupo del deploy<br>
+y el hosting de cada cliente: servidores propios con Docker, bases de datos, dominios y correo.
 </p>
 
 ---
@@ -75,14 +75,6 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://www.villavicunacafayate.com.ar/es/" target="_blank">
-        <img src="https://www.villavicunacafayate.com.ar/opengraph.jpg" width="100%"/>
-      </a>
-      <br/>
-      <b>Villa Vicuña (Cafayate)</b><br/>
-      Presencia web del hotel.
-    </td>
-    <td width="50%" valign="top">
       <a href="https://islasgroup.com.ar/" target="_blank">
         <img src="https://islasgroup.com.ar/images/og-islas-group.png" width="100%"/>
       </a>
@@ -90,8 +82,6 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
       <b>Islas Group</b><br/>
       Relojería y joyería de lujo (Buenos Aires).
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://bikemarketarg.com/" target="_blank">
         <img src="https://bikemarketarg.com/opengraph-image.png" width="100%"/>
@@ -100,6 +90,8 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
       <b>Bikemarket</b><br/>
       Marketplace de bicicletas.
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://www.aeroparkingezeiza.com.ar/" target="_blank">
         <img src="https://www.aeroparkingezeiza.com.ar/opengraph-image.png" width="100%"/>
@@ -108,8 +100,6 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
       <b>AeroParking Ezeiza</b><br/>
       Reservas de cocheras para el aeropuerto de Ezeiza.
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://casacerro.com.ar/" target="_blank">
         <img src="https://casacerro.com.ar/og-casacerro.png" width="100%"/>
@@ -118,6 +108,8 @@ un SaaS de CRM por WhatsApp para comercios sin digitalizar.
       <b>Casa Cerro</b><br/>
       Landing page con panel administrativo para modificar tarifas.
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://clockking.com.ar" target="_blank">
         <img src="https://clockking.com.ar/opengraph-image.png" width="100%"/>
